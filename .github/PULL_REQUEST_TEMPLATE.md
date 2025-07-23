@@ -17,9 +17,9 @@ DON'T modify any other token on the list.
 
 At minimum each entry should have
 
-- Token Address:
-- Token Name:
-- Token Symbol:
+- Token Address:8ugctk8GGKgYPGcgJuQKqCC7zXA3xNGC23wPtf8FR4Do
+- Token Name:jet2moon
+- Token Symbol:JET2MOON
 - Logo: (logo should be uploaded under assets/mainnet/<mint address>/\*.<png/svg>)
 - Link to the official homepage of token:
 - Coingecko ID if available (https://www.coingecko.com/api/documentations/v3#/coins/get_coins__id_):
@@ -31,7 +31,7 @@ Your pull request will be automatically merged if the following conditions are m
 - Your pull request **only adds new tokens** to the list. Any modification to existing
   tokens will require manual review to prevent unwanted modifications.
 
-- Your pull request does **not touch unrelated code**. In particular, reformatting changes to unrelated
+- Your pull request does **not touch unrelated code**. In particular, reformöatting changes to unrelated
   code will cause the auto merge to reject your PR.
 
 - Any **asset files added correspond to the token address** you are adding. Asset files

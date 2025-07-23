@@ -184615,11 +184615,17 @@
       "tags": [
         "social-token"
       ]
+    },
+    {
+      "address": "8ugctk8GGKgYPGcgJuQKqCC7zXA3xNGC23wPtf8FR4Do",
+      "symbol": "JET2MOON",
+      "name": "Jet2Moon",
+      "decimals": 9,
+      "logoURI": "https://i.imgur.com/NtR6cJc.png",
+      "tags": [
+        "memecoin",
+        "jet2moon"
+      ]
     }
-  ],
-  "version": {
-    "major": 0,
-    "minor": 3,
-    "patch": 3
-  }
+  ]
 }
